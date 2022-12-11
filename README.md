@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)]
+[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Subhan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
