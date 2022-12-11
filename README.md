@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Subhan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding"  src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0" width=350 />
+<img alt="coding"  src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanghani339&label=Profile%20views&color=0e75b6&style=flat" alt="subhanghani339" /> </p>
 
