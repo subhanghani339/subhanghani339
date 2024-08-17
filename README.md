@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Subhan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 <img alt="coding"  src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0" width="60%" loop="infinite" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanghani339&label=Profile%20views&color=0e75b6&style=flat" alt="subhanghani339" /> </p>
 
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **Full Stack Development**
 
- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, WordPress, Shopify**
+ 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, WordPress, Shopify, React, Next, Express, Node, Mongodb**
 
  📫 How to reach me **subhanghani339@gmail.com**
 
